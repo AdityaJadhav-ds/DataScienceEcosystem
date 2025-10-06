@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-Jupyter Notebook for Data Science Lab ...
+Jupyter Notebook for Data Science Lab 
